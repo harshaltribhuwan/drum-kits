@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: #283149;
+  }
+
+
+  h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+  
+  }
+
+  .set {
+    margin: 10% auto;
+  }
+  
+  footer {
+    color: #DBEDF3;
+    font-family: sans-serif;
+  }
+
+ 
